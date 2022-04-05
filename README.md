@@ -7,7 +7,7 @@
   </a>
 </p>
 
-#### Skills
+### Skills
 
 <p align="left"> 
 <a href="https://golang.org" target="_blank"> 
@@ -17,4 +17,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
 </a> 
 
-<hr>
