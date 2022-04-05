@@ -18,7 +18,3 @@
 </a> 
 
 <hr>
-
-<h4 align="left">Github stats</h4>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mztnnrt&hide=html,css&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
