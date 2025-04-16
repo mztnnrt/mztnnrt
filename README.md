@@ -42,8 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="15" height="15"/>
 </a>
 
--->
-
 <p align="left">In development using
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="15" height="15"/>
 <img src="grpc-logo.svg" alt="grpc" width="15" height="15"/>
@@ -59,4 +57,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="terraform" width="15" height="15"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="15" height="15"/>
 
-
+-->
